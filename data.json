@@ -1,0 +1,64 @@
+[
+    {
+        "id":"1",
+        "student_name":"Otmane maacha",
+        "student_number":"320800",
+        "student_age":"61",
+        "profile_image":"default_profile.png"
+    },
+{
+    "id":"2",
+    "student_name":"simo idbihi",
+    "student_number":"434343",
+    "student_age":"63",
+    "profile_image":"default_profile.png"
+},
+{
+    "id":"3",
+    "student_name":"yassine elhoubi",
+    "student_number":"86000",
+    "student_age":"66",
+    "profile_image":"default_profile.png"
+},
+{
+    "id":"4",
+    "student_name":"hamza test",
+    "student_number":"433060",
+    "student_age":"22",
+    "profile_image":"default_profile.png"},
+{
+    "id":"5",
+    "student_name":"testing testing",
+    "student_number":"162700",
+    "student_age":"33",
+    "profile_image":"default_profile.png"},
+{
+    "id":"6",
+    "student_name":"salah sa",
+    "student_number":"372000","student_age":"61",
+    "profile_image":"default_profile.png"},
+{
+    "id":"7",
+    "student_name":"ham rf",
+    "student_number":"137500",
+    "student_age":"59",
+    "profile_image":"default_profile.png"},
+{
+    "id":"8",
+    "student_name":"ayoub ",
+    "student_number":"327900",
+    "student_age":"55",
+    "profile_image":"default_profile.png"},
+{
+    "id":"9",
+    "student_name":"aymen",
+    "student_number":"205500",
+    "student_age":"39",
+    "profile_image":"default_profile.png"},
+{
+    "id":"10",
+    "student_name":"walid",
+    "student_number":"103600",
+    "student_age":"23",
+    "profile_image":"default_profile.png"}
+]
